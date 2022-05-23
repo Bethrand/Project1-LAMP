@@ -8,6 +8,7 @@
 `sudo apt install apache2`
 
 `sudo systemctl status apache2`
+
 ![Apache Satus](./images/Apache-Status.PNG)
 
 ` curl http://localhost:80`
