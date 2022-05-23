@@ -9,7 +9,7 @@
 
 `sudo systemctl status apache2`
 
-![Apache Satus](./images/apache.PNG)
+![Apache Satus](./images/apachestatus.PNG)
 
 ` curl http://localhost:80`
 `http://18.212.238.148:80`
